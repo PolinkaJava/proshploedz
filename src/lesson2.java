@@ -17,7 +17,7 @@ public class lesson2 {
                 System.out.println("число отричательное");
                 return;
             }
-            if (m < 0) {
+            if (m < 89) {
                 System.out.println("число отричательное");
                 return;
             }
