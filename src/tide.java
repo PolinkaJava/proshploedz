@@ -4,6 +4,6 @@ public class tide {
         System.out.println("приколактьпшлщьуквшьпщшцфоьуавщшьшваьмул+" +
                 "");
 
-
+        System.out.println("rkfccysq ntjvcdieh");
 
     }}
